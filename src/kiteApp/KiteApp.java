@@ -49,6 +49,7 @@ public class KiteApp {
 		
 		driver.findElement(By.xpath("//a[@target=\"_self\"]")).click();
 		Thread.sleep(3000);
+		System.out.println("hi this is change for git");
 	//	driver.close();
 		
 	    	
